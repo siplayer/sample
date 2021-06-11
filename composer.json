@@ -1,0 +1,13 @@
+{
+    "name": "younes/sample",
+    "description": "younes application from scratsh",
+    "license": "younes",
+    "authors": [
+        {
+            "name": "siplayer",
+            "email": "ysaboutaib@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
